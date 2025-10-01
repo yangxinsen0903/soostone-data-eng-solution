@@ -64,14 +64,14 @@ Enriched dataset: nyc_sales_enriched.csv
 Database file (optional): nyc.duckdb
 
 7. How to Run
-# Create virtual environment
+-- Create virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
 
-# Install dependencies
+-- Install dependencies
 pip install duckdb pandas
 
-# Generate enriched dataset
+-- Generate enriched dataset
 python3 soostone_solution.py
 
 8. Potential Enhancements
