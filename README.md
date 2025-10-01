@@ -18,7 +18,7 @@ Raw rows: 84,548
 
 After filtering sale_price > 1000: 58,604 (~69% retained)
 
-<img width="350" height="144" alt="image" src="https://github.com/user-attachments/assets/16bedf99-1456-4579-b34d-052c1641b751" />
+<img width="426" height="139" alt="image" src="https://github.com/user-attachments/assets/ef62da42-37aa-4691-a55c-e49c48897a98" />
 
 
 Average sale price: $1.52M
@@ -27,9 +27,18 @@ Median sale price: $639K (distribution is heavily skewed)
 
 95th percentile: $4.05M
 
+<img width="535" height="194" alt="image" src="https://github.com/user-attachments/assets/e707b63c-ab03-4e1e-9bd7-b8412440d376" />
+
+
 ~28% of rows have total_units = 0 (problematic for per-unit metrics)
 
+<img width="372" height="157" alt="image" src="https://github.com/user-attachments/assets/a88917b3-1929-4573-87d7-4ae9c1a73ee9" />
+
+
 ~37% of rows missing gross_square_feet
+
+<img width="373" height="156" alt="image" src="https://github.com/user-attachments/assets/85b6e9bc-cd78-4952-95af-c6fb013222a2" />
+
 
 Insights
 
