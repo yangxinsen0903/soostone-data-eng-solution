@@ -64,6 +64,7 @@ Enriched dataset: nyc_sales_enriched.csv
 Database file (optional): nyc.duckdb
 
 7. How to Run
+
 -- Create virtual environment
 
 python3 -m venv .venv
