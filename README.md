@@ -12,10 +12,12 @@ Python 3 + DuckDB script to generate the final enriched dataset.
 Dataset Overview
 
 Raw rows: 84,548
+
 <img width="191" height="118" alt="image" src="https://github.com/user-attachments/assets/94c17c1f-fd3f-440a-ac54-3fe00e711979" />
 
 
 After filtering sale_price > 1000: 58,604 (~69% retained)
+
 <img width="350" height="144" alt="image" src="https://github.com/user-attachments/assets/16bedf99-1456-4579-b34d-052c1641b751" />
 
 
