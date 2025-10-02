@@ -18,7 +18,7 @@ def normalize(col):
 
 df_raw.columns = [normalize(c) for c in df_raw.columns]
 
-print("✅ Normalized columns:", df_raw.columns.tolist())
+print("Normalized columns:", df_raw.columns.tolist())
 
 # Step 3: Register with DuckDB
 con = duckdb.connect()
